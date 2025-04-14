@@ -28,3 +28,5 @@ This system allows:
 ---
 
 ## 📊 Class Diagram (UML)
+![UML Diagram](class_diagram.png)
+
